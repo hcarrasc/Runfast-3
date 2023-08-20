@@ -1,0 +1,30 @@
+{
+  "name": "runfast-3",
+  "version": "1.0.0",
+  "description": "awesome version 3",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcarrasc/Runfast-3.git"
+  },
+  "keywords": [
+    "music",
+    "music",
+    "player",
+    "node"
+  ],
+  "author": "HC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcarrasc/Runfast-3/issues"
+  },
+  "homepage": "https://github.com/hcarrasc/Runfast-3#readme",
+  "dependencies": {
+    "audic": "^3.0.2"
+  }
+}
