@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "awesome version 3",
   "main": "src/index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.js"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -26,5 +25,8 @@
   "homepage": "https://github.com/hcarrasc/Runfast-3#readme",
   "dependencies": {
     "audic": "^3.0.2"
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
   }
 }
